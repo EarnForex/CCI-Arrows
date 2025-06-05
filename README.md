@@ -9,6 +9,6 @@ It is a non-repainting indicator but, unfortunately, it does lag considerably.
 ![CCI Arrows shows buy and sell signals on this EUR/USD chart example](https://github.com/EarnForex/CCI-Arrows/blob/main/README_Images/cci-arrows-showing-buy-sell-signals.png)
 
 A detailed description of the indicator can be found here:
-https://www.earnforex.com/metatrader-indicators/CCI-Arrows/
+https://www.earnforex.com/indicators/CCI-Arrows/
 
 Any contributions to the code are welcome!
